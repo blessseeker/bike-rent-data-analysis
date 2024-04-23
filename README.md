@@ -1,6 +1,6 @@
 # Bike Rent Data Analysis
 
-## Setup Environment - Anaconda
+## Setup Environment - Anaconda/Miniconda
 ```
 conda create --name main-ds python=3.12
 conda activate main-ds
