@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Rent Data Analysis
 
 ## Setup Environment - Anaconda
 ```
